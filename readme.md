@@ -20,7 +20,7 @@ Before you begin, ensure you have the following:
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/`
+1. Clone the repository: `git clone https://github.com/Keshav76/Linktree-clone.git`
 2. Go to backend directory: `cd backend`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
